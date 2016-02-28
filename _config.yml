@@ -1,7 +1,7 @@
 name: Dominicana
 favicon: null
-layout_spectrum: 0.4110072839539498
-typography_spectrum: 0.279977795900777
+layout_spectrum: 0.88432
+typography_spectrum: 0.40679
 title: Dominican Republic Vacation
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#c0e5f8'
+    - '#24292c'
+    - '#949e86'
+    - '#727b68'
+    - '#fdfd9d'
   brandStrength: 0.9746529560070485
   lightness: 0.6728123943321407
   saturation: 0.45188645645976067
